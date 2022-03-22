@@ -39,19 +39,21 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![x]https://github.com/MonJ0J/CodePath_Glitch/blob/165b4721b4b736883c93233b64efc40557c17a45/Kapture%202022-03-22%20at%2012.11.28.gif
-![x]https://github.com/MonJ0J/CodePath_Glitch/blob/165b4721b4b736883c93233b64efc40557c17a45/Kapture%202022-03-22%20at%2012.28.30.gif
-![x]https://github.com/MonJ0J/CodePath_Glitch/blob/165b4721b4b736883c93233b64efc40557c17a45/Kapture%202022-03-22%20at%2012.29.36.gif
+![gif showing basic features]https://github.com/MonJ0J/CodePath_Glitch/blob/165b4721b4b736883c93233b64efc40557c17a45/Kapture%202022-03-22%20at%2012.11.28.gif
+![gif showing change in speed and user testing]https://github.com/MonJ0J/CodePath_Glitch/blob/165b4721b4b736883c93233b64efc40557c17a45/Kapture%202022-03-22%20at%2012.28.30.gif
+![gif changing random pattern]https://github.com/MonJ0J/CodePath_Glitch/blob/165b4721b4b736883c93233b64efc40557c17a45/Kapture%202022-03-22%20at%2012.29.36.gif
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+https://www.w3schools.com/css//css_font_websafe.asp
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+
+At first, the challenge went as the last item inside my mental queue. Web dev is something I haven't had much contact with in my college journey. However, once I felt a spark igniting my interest in the challenge. I finished it in two rounds. The most significant challenge came when I read the functions given and couldn't understand what was going on. To overcome this challenge, I took a pen and paper and started writing down line by line and understanding the connection with the code and how it was indispensable. Web development is relatively new, so I also had to read through the syntax required to open a loop, the specific keywords like "let" and a refresher in global variables. I had trouble understanding JavaScript rather than CSS and HTML. The former required some specific syntax for variables, constants, and functions. I had to refer back to my notes on Computer Organization as that syntax resembles the assembly language principles. Finally, I had a particular challenge with the logic provided by function the function guess(btn). I had trouble distinguishing between data types. For example, the line "user guessed: " + btn was not easy to decipher as it represents an integer, but the variable is in quotations, which would create a string in python. I overcame this challenge by practicing and going back to the code to find references to the same syntax in functions I had already understood. 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+In my mind, HTML, CSS, and JavaScript were three different languages related only because they produce effects on the web. However, after this brief introduction, my interest and curiosity grew bigger, leaving me with unanswered questions. First, I would like to understand more event handlers. How can a function written in JavaScript end up calling something in the HTML code? I will also like to dig deeper into the CSS features. Due to previous experience, my intuitions lead me to think that CSS can do more than just styling. I would also like to know which user can access web development features; anyone can inspect the items on a brew browser and thus change the code. I want to know how do ages change the editing privileges for users.  
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
