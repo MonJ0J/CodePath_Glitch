@@ -56,8 +56,8 @@ At first, the challenge went as the last item inside my mental queue. Web dev is
 In my mind, HTML, CSS, and JavaScript were three different languages related only because they produce effects on the web. However, after this brief introduction, my interest and curiosity grew bigger, leaving me with unanswered questions. First, I would like to understand more event handlers. How can a function written in JavaScript end up calling something in the HTML code? I will also like to dig deeper into the CSS features. Due to previous experience, my intuitions lead me to think that CSS can do more than just styling. I would also like to know which user can access web development features; anyone can inspect the items on a brew browser and thus change the code. I want to know how do ages change the editing privileges for users.  
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
 
+I like to start by sharing my perspective on coding, I see it as a piece of art, and you can never finish a piece of art; you just stop working on it. I will implement all the recommended features even if my submission deadline has passed. I would like to see how I can add a clock to the game to chronograph the specific amount taken. Also would like to display different messages for each of the new sequence patterns. I will also like to add images so that the boxes are not just colors, but the memory exercise also requires association between words and sounds. I will want to make it multiplayer. So that one player chooses the pattern and speed so that the other user guesses it and returns a scoreboard with the winner. 
 
 
 ## Interview Recording URL Link
