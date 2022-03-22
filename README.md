@@ -39,10 +39,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![x]Kapture 2022-03-22 at 12.11.28.gif
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+![]https://github.com/MonJ0J/CodePath_Glitch/blob/165b4721b4b736883c93233b64efc40557c17a45/Kapture%202022-03-22%20at%2012.11.28.gif
+![]https://github.com/MonJ0J/CodePath_Glitch/blob/165b4721b4b736883c93233b64efc40557c17a45/Kapture%202022-03-22%20at%2012.28.30.gif
+![]https://github.com/MonJ0J/CodePath_Glitch/blob/165b4721b4b736883c93233b64efc40557c17a45/Kapture%202022-03-22%20at%2012.29.36.gif
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
