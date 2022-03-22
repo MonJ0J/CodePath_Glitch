@@ -62,7 +62,7 @@ I like to start by sharing my perspective on coding, I see it as a piece of art,
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/849768fe6f3040ef8ec43aa1eb8cca83)
 
 
 ## License
